@@ -493,6 +493,12 @@ i{
     animation: r 1s normal;
 }
 
+.seta1:hover{
+    width: 60px;
+    height: 60px;
+    animation: r 1s normal;
+}
+
 @keyframes r{
     0%{
         width: 50px;
